@@ -1,0 +1,168 @@
+body {
+    background-size: 200%;
+    background-image: url(../img/covid.jpg);
+}
+ul{
+    list-style-type: none;
+    border-spacing: 12px;
+    overflow: hidden;
+    background-color: black;
+}
+li {
+    float:left;
+}   
+li a {
+    font-size: large;
+    letter-spacing: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+  background-color: rgb(123, 20, 25);
+} 
+.index {
+    background-color: cornsilk;
+}
+h1{
+    font-size: xx-large;
+    letter-spacing: 3px;
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+video {
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+}
+#pangolin{
+    width: 500px;
+    position: relative;
+    left: 90px;
+    bottom: 50px;
+
+}
+#tabela{
+    width: 500px;
+    position: absolute;
+    right: 90px;
+    bottom: -50px;
+}
+.persona{
+    font-family: 'KoHo', sans-serif;
+}
+.persona2{
+    font-family: 'Indie Flower', cursive;
+}
+.persona3{
+    font-family: 'Source Code Pro', monospace;
+}
+h3{
+    text-align: center;
+    color:black (61, 25, 111);
+    font-family: 'Reggae One', cursive;
+}
+p{
+    letter-spacing: 2px;
+    font-size: larger;
+    color: indigo;
+    font-family: 'Pattaya', sans-serif;
+    text-shadow: 1px -1px black;
+    text-align: justify;
+}
+.rodape {
+    color: black;
+    text-align: center;
+}
+iframe{
+    width: 500px;
+    position: relative;
+    right: -400px;
+    bottom: 20px;
+}
+#coronavac {
+    text-align: justify;
+    position: absolute;
+    top: 1000px;
+    letter-spacing: 2 px;
+    font-size: x-large;
+}
+#vac{
+    position: relative;
+    width: 40%;
+    opacity: 0.2;
+}
+#astrazeneca{
+    text-align: justify;
+    position: absolute;
+    top: 1230px;
+    letter-spacing: 2 px;
+    font-size: x-large;
+}
+#neca {
+    width: 50%;
+    opacity: 0.2;
+    position: absolute;
+    right: -10px;
+    bottom: -900px;
+}
+#pfizer {
+    text-align: justify;
+    position: absolute;
+    top: 1500px;
+    letter-spacing: 2 px;
+    font-size: x-large;
+}
+#pfizer1 {
+    position: relative;
+    width: 40%;
+    opacity: 0.2;
+}
+#prev{
+    width: 500px;
+    position: relative;
+    right: -100px;
+    bottom: -20px;
+}
+#prev1{
+    width: 500px;
+    position: relative;
+    right: -200px;
+    bottom: -20px;
+}
+.masca ul {
+     background-color: cornsilk;
+}
+.masca li{ 
+   text-align: left;
+}
+.MASK{
+    text-align: left;
+}
+.higi h3 {
+    background-color: cornsilk;
+    letter-spacing: 2px;
+}
+#form {
+    position: relative;
+    left: 50px;
+}
+.form {
+    text-align: left;
+}
+#name {
+    text-align: right;
+}
+#foto{
+    top: 200px;
+    right: 50px;
+    width: 20%;
+    position: absolute;
+}
